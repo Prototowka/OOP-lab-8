@@ -1,0 +1,4 @@
+﻿  OOP lab 8.cpp
+C:\Users\UwU\source\repos\OOP lab 8\OOP lab 8\OOP lab 8.cpp(77,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\UwU\source\repos\OOP lab 8\OOP lab 8\OOP lab 8.cpp(122,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  OOP lab 8.vcxproj -> C:\Users\UwU\source\repos\OOP lab 8\x64\Debug\OOP lab 8.exe
